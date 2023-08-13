@@ -28,4 +28,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ https://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@github.com/lawrencemasilo/lawrencemasilo.git }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
