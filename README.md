@@ -4,8 +4,6 @@
 
 ###
 
-<h2 align="left">Hi 👋!</h2>
-
 ###
 
 <div align="center">
