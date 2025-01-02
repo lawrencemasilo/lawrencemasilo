@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 Projects
+## 💻 Latest Projects
 
 ### [Zesty](https://thankful-smoke-06ca0c70f-preview.eastus2.4.azurestaticapps.net/)
 A Buy Now Pay Later (BNPL) platform for SMEs and suppliers to boost sales and streamline transactions.
@@ -27,7 +27,13 @@ A Buy Now Pay Later (BNPL) platform for SMEs and suppliers to boost sales and st
 
 ## 📈 Stats
 
-![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+### GitHub Stats
+
+![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawrencemasilo&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+### Contributions & Commit Animation
+
+![Neo's Commit Animation](https://github-readme-streak-stats.herokuapp.com/?user=lawrencemasilo&show_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
