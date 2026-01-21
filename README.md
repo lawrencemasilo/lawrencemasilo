@@ -9,12 +9,8 @@
 
 - **Frontend:** JavaScript, React.JS, HTML, CSS, Tailwind
 - **Backend:** Node.JS, Python, MongoDB
-- **Cloud:** AWS (currently learning)
+- **Cloud:** Azure
 ---
-
-## 💻 Latest Projects
-
-### [Zesty](https://thankful-smoke-06ca0c70f-preview.eastus2.4.azurestaticapps.net/)
 
 ## 🌍 About Me
 
@@ -31,7 +27,6 @@
 
 ## 🚀 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/neomasilo)
 - 📧 Email me: neolawrencemasilo@gmail.com
 - 🌐 Website: [neomasilo.com](https://black-glacier-0014b671e-preview.westus2.4.azurestaticapps.net/)
 
