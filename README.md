@@ -28,6 +28,5 @@
 ## 🚀 Let's Connect
 
 - 📧 Email me: neolawrencemasilo@gmail.com
-- 🌐 Website: [neomasilo.com](https://black-glacier-0014b671e-preview.westus2.4.azurestaticapps.net/)
 
 Feel free to check out my repositories and collaborate with me on exciting projects!
